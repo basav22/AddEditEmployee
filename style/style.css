@@ -1,0 +1,14 @@
+form[name="add-edit-employee-form"] {
+    margin: 1em 0px;
+}
+
+form[name="add-edit-employee-form"] .form-control{
+    margin-right: 1em;
+}
+
+
+/*Table Styling*/
+.btn.remove-btn {
+    padding-left: 0;
+    padding-right: 0;
+}
